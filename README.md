@@ -10,10 +10,10 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div align="left" style="flex: 1;">
-    🔭 I’m currently working on building portfolio projects.</br>
-    🌱 I’m currently learning machine learning.</br>
-    💬 Ask me about anything but personal.</br>
-    📫 How to reach me: Try 📧
+    🔭 Currently spearheading the development of portfolio projects to showcase a diverse skill set.</br>
+    🌱 Actively engaging in ongoing studies, with a focus on advancing expertise in machine learning.</br>
+    💬 Open to inquiries on various topics, excluding personal matters.</br>
+    📫 For communication, feel free to reach out via email at 📧
   </div>
 
   <div align="right" style="flex: 1; margin-left: 20px;">
