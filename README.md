@@ -1,20 +1,10 @@
-<div align="center">
-  <img height="150" src="https://i.ibb.co/LhPnRPJ/imageedit-2-3840712047.gif" alt="Nikhil Vedpathak" style="border-radius: 50%;" />
-</div>
+# Hey there 👋
 
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/nikhil-vedpathak-575746173/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="70" alt="LinkedIn Logo" /></a>
+<div align="left">
+  <a href="https://www.linkedin.com/in/nikhil-vedpathak-575746173/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" alt="LinkedIn Logo" /></a>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.kaggle.com/nikhilvedpathak" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" height="70" alt="kaggle Logo" /></a>
- </div>
-
-
-
-<h1 align="center">hey there 👋</h1>
-
-###
+  <a href="https://www.kaggle.com/nikhilvedpathak" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" height="50" alt="kaggle Logo" /></a>
+</div>
 
 ### &nbsp;   🤵🏻‍♂️ About me
 
