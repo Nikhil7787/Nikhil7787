@@ -6,10 +6,11 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div align="left" style="flex: 1;">
-    🔭 Currently spearheading the development of portfolio projects to showcase a diverse skill set.</br>
-    🌱 Actively engaging in ongoing studies, with a focus on advancing expertise in machine learning.</br>
-    💬 Open to inquiries on various topics, excluding personal matters.</br>
-    📫 For communication, feel free to reach out via email at 📧
+    🔭 Spearheading diverse portfolio projects to showcase a versatile skill set. </br>
+    🌱 Actively advancing expertise in Python development and foundational machine learning. </br>
+    🚀 Passionate about applying cutting-edge technologies to solve complex problems. </br>
+    💡 Open for discussions on diverse subjects, excluding personal matters. </br>
+    📫 Reach out via email 📧 for communication.
   </div>
 
   <div align="right" style="flex: 1; margin-left: 20px;">
