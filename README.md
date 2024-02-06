@@ -1,22 +1,15 @@
 # Hey there 👋
 
+<h3 align="left">🤵🏻‍♂️ About me</h3>
+
+🔭 Spearheading diverse portfolio projects to showcase a versatile skill set. </br>
+🌱 Actively advancing expertise in Python development and foundational machine learning. </br>
+🚀 Passionate about applying cutting-edge technologies to solve complex problems. </br>
+💡 Open for discussions on diverse subjects, excluding personal matters. </br>
+
+<img height="300" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="Gif" />
 
 
-### &nbsp;   🤵🏻‍♂️ About me
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div align="left" style="flex: 1;">
-    🔭 Spearheading diverse portfolio projects to showcase a versatile skill set. </br>
-    🌱 Actively advancing expertise in Python development and foundational machine learning. </br>
-    🚀 Passionate about applying cutting-edge technologies to solve complex problems. </br>
-    💡 Open for discussions on diverse subjects, excluding personal matters. </br>
-    📫 Reach out via email 📧 for communication.
-  </div>
-
-  <div align="right" style="flex: 1; margin-left: 20px;">
-    <img height="200" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" />
-  </div>
-</div>
 
 
 
@@ -59,14 +52,24 @@
 
 
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Stats </h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Nikhil7787&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Nikhil7787&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
+
+<h3 align="left">:heart: Let's  connect:</h3>
+
+<a href="mailto:nikhilvedpathak6800@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://www.linkedin.com/in/nikhil-vedpathak/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
+<a href="https://www.kaggle.com/nikhilvedpathak"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"></a>
+<!---
+<a href=""><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"></a>
+<a href=""><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"></a>
+---->
 
