@@ -2,10 +2,10 @@
 
 <h3 align="left">🤵🏻‍♂️ About me</h3>
 
-🔭 Spearheading diverse portfolio projects to showcase a versatile skill set. </br>
-🌱 Actively advancing expertise in Python development and foundational machine learning. </br>
-🚀 Passionate about applying cutting-edge technologies to solve complex problems. </br>
-💡 Open for discussions on diverse subjects, excluding personal matters. </br>
+🚀 **Enthusiastic data science intern** at Zidio Development, applying Python and machine learning to solve real-world problems. </br>
+🌱 **Continuously learning and upskilling,** currently focusing on mastering Python development and foundational machine learning concepts. </br>
+☁️ **Cloud curious,** exploring and expanding my knowledge on cloud platforms.   </br>
+💡 **Open to discussions** on data science, machine learning, and technology.  </br>
 
 <img height="300" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="Gif" />
 
