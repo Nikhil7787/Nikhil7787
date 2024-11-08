@@ -21,7 +21,7 @@ My journey in technology has sparked a passion for cybersecurity, and I am now e
 | Network Protocols (OSI, TCP/IP, DNS, HTTP/HTTPS) |- |
 | Operating Systems (Windows 7, 8 & 10, Kali Linux)| - |
 | Virtualization Software (VMware, VirtualBox)     | Virtualization Setup |
-| SIEM Tools (ArcSight, QRadar, Splunk)            | - |
+| SIEM Tools (QRadar, Splunk)            | - |
 | Network Vulnerability Assessment & Penetration Testing Tools (NMAP, Wireshark) | <a href="https://github.com/Nikhil7787/VAPT">VAPT</a> |
 | Python                                           | - |
 | SQL                                              | - |
@@ -83,9 +83,9 @@ My journey in technology has sparked a passion for cybersecurity, and I am now e
 
 <a href="https://www.credly.com/badges/f6ef3c5c-d77a-47b8-afa5-57e5eb7e823e/public_url">
     <img src="https://raw.githubusercontent.com/Nikhil7787/assets/main/introduction-to-cybersecurity.png" alt="Credly Badge" width="100"/>
-</a>
-
-<a href="https://www.credly.com/badges/08c4abbb-9c03-4192-88fa-99e5bf56d135/public_url">
+</a> <a href="https://www.credly.com/badges/bce3adcb-f544-4990-ab7c-9f19f7e93208/public_url">
+    <img src="https://github.com/Nikhil7787/assets/blob/main/junior-cybersecurity-analyst-career-path.1.png" alt="Credly Badge" width="100"/>
+</a> <a href="https://www.credly.com/badges/08c4abbb-9c03-4192-88fa-99e5bf56d135/public_ur">
     <img src="https://raw.githubusercontent.com/Nikhil7787/assets/main/opswat-introduction-to-critical-infrastructure-protection-icip.png" alt="OPSWAT ICIP Badge" width="100"/>
 </a>
 
