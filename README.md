@@ -1,5 +1,5 @@
 # Hello, I'm Nikhil
-<a href="mailto:nikhilvedpathak6800@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> <a href="https://www.linkedin.com/in/nikhil-vedpathak/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a> 
+<a href="mailto:nikhilvedpathak7787@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> <a href="https://www.linkedin.com/in/nikhil-vedpathak/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a> 
 
 <div style="display: flex; justify-content: center;">
   <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZjc3piZmZrM2hjanYxMXkwemc2OGE5Nmc5N20zMWV4cmJlZXMxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" alt="Gif" style="margin-right: 10px;" />
