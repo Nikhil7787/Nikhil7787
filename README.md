@@ -67,15 +67,12 @@ My journey in technology has sparked a passion for cybersecurity, and I am now e
   <img width="12" /> 
 </div>
 
-### Password Cracking
-<div>
-    <img src="https://github.com/Nikhil7787/assets/blob/main/JOHN.png" height="60" alt="git logo" />
-</div>
 
 ### SIEM
 <div>
-    <img src="https://github.com/Nikhil7787/assets/blob/main/Qradar.png"  height="40" alt="git logo" />
     <img src="https://github.com/Nikhil7787/assets/blob/main/splunk.png"  height="40" alt="git logo" />
+    <img src="https://github.com/Nikhil7787/assets/blob/main/Azure%20Sentinel.svg"  height="40" alt="git logo" />
+    <img src="https://github.com/Nikhil7787/assets/blob/main/Qradar.png"  height="40" alt="git logo" />
 
 </div>
 
@@ -90,6 +87,4 @@ My journey in technology has sparked a passion for cybersecurity, and I am now e
 </a>
 
 
-## Projects
-- Password Cracking and Hardening: Analyzing Security Vulnerabilities
-- Vulnerability Assessment and Penetration Testing (VAPT) Project
+
