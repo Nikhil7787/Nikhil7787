@@ -6,7 +6,7 @@
   <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTQwNGhuNmc5cmtuMTJlNjRjc3pxd3RiY2d1c3FpYXF1ZzhuYzk1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.gif" alt="Gif" />
 </div>
 
-🚀 Cybersecurity enthusiast building a foundation in cybersecurity with hands-on projects like password cracking and vulnerability assessment. </br> 🌱 Continuously learning, currently focusing on Python, security tools like John the Ripper, and foundational cybersecurity principles.</br> ☁️ Cloud curious, expanding my knowledge on cloud platforms and their security features. </br> 💡 Open to discussions on cybersecurity, machine learning, and technology. </br> </br>
+🔐 SOC analyst in training with hands-on practice in threat detection, log analysis, and incident response using Splunk, Sentinel, and QRadar. </br> 🛠️ Working on malware analysis labs, phishing workflows, and building detection playbooks. </br> 📚 Learning SIEM, SOAR, network security, and threat intelligence. </br> 🧪 Sharing projects as I level up in blue-team security. </br> </br>
 
 ## Objective
 
@@ -16,18 +16,34 @@ My journey in technology has sparked a passion for cybersecurity, and I am now e
 
 | Skill                                            | Associated Project         |
 |--------------------------------------------------|----------------------------|
-| Network Security Basics                          | _ |
+| Network Security Basics                          | <a href="https://github.com/Nikhil7787/cowrie-splunk-lab">Honeypot & Splunk Analysis</a> |
 | Knowledge of Firewalls, VPNs, and IDS/IPS        | _ |
 | Network Protocols (OSI, TCP/IP, DNS, HTTP/HTTPS) |- |
-| Operating Systems (Windows 7, 8 & 10, Kali Linux)| - |
-| Virtualization Software (VMware, VirtualBox)     | Virtualization Setup |
-| SIEM Tools (QRadar, Splunk)            | - |
+| Operating Systems (Windows 7, 8 & 10, Kali Linux)| <a href="https://github.com/Nikhil7787/EDR-home-lab">Adversary Emulation Lab</a> |
+| Virtualization Software (VMware, VirtualBox)     | <a href="https://github.com/Nikhil7787/EDR-home-lab">Virtualization Setup</a> |
+| SIEM Tools (Splunk, Microsoft Sentinel)          | <a href="https://github.com/Nikhil7787/cowrie-splunk-lab">Splunk Log Ingestion</a> |
 | Network Vulnerability Assessment & Penetration Testing Tools (NMAP, Wireshark) | <a href="https://github.com/Nikhil7787/VAPT">VAPT</a> |
 | Python                                           | - |
 | SQL                                              | - |
 | Git                                              | - |
-| SOC Process                                      | _ |
+| SOC Process (Detection & Response)               | <a href="https://github.com/Nikhil7787/EDR-home-lab">EDR & Threat Hunting</a> |
 | Interpersonal Skills (Good communication, Self-motivation) | _ |
+
+## 📂 Featured Projects
+
+### 🛡️ <a href="https://github.com/Nikhil7787/EDR-home-lab">EDR & Adversary Emulation Lab</a>
+**Tools:** LimaCharlie EDR, Sliver C2, Kali Linux.
+* Simulated a real-world cyberattack using Sliver C2 to compromise a Windows endpoint.
+* Deployed LimaCharlie EDR to detect and block the attack in real-time.
+* Performed threat hunting to identify C2 beacons and authored D&R rules for automated blocking.
+
+### 🍯 <a href="https://github.com/Nikhil7787/cowrie-splunk-lab">Honeypot & Splunk SIEM Pipeline</a>
+**Tools:** Cowrie, Splunk, Docker.
+* Deployed a Cowrie SSH Honeypot to trap and log brute-force attackers.
+* Built a logging pipeline streaming JSON logs into Splunk SIEM.
+* Analyzed live attacker behavior and ingestion metrics using Splunk SPL.
+
+<br>
 
 <h3 align="left">🛠️ Language and Tools</h3>
 <div align="left">
@@ -52,11 +68,15 @@ My journey in technology has sparked a passion for cybersecurity, and I am now e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" /> 
 </div>
 
-### OS 
+### OS & Virtualization
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-    <img src="https://github.com/Nikhil7787/assets/blob/main/kali.png?raw=true" height="40" alt="kali linux logo" />
   <img width="12" /> 
+  <img src="https://github.com/Nikhil7787/assets/blob/main/kali.png?raw=true" height="40" alt="kali linux logo" />
+  <img width="12" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo" />
+  <img width="12" /> 
+  <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" height="40" alt="virtualbox logo" />
 </div>  
 
 ### Network
@@ -70,10 +90,9 @@ My journey in technology has sparked a passion for cybersecurity, and I am now e
 
 ### SIEM
 <div>
-    <img src="https://github.com/Nikhil7787/assets/blob/main/splunk.png"  height="40" alt="git logo" />
-    <img src="https://github.com/Nikhil7787/assets/blob/main/Azure%20Sentinel.svg"  height="40" alt="git logo" />
-    <img src="https://github.com/Nikhil7787/assets/blob/main/Qradar.png"  height="40" alt="git logo" />
-
+    <img src="https://github.com/Nikhil7787/assets/blob/main/splunk.png"  height="40" alt="splunk logo" />
+    <img width="12" />
+    <img src="https://github.com/Nikhil7787/assets/blob/main/Azure%20Sentinel.svg"  height="40" alt="sentinel logo" />
 </div>
 
 ## Certifications & Badges
@@ -85,6 +104,3 @@ My journey in technology has sparked a passion for cybersecurity, and I am now e
 </a> <a href="https://www.credly.com/badges/08c4abbb-9c03-4192-88fa-99e5bf56d135/public_ur" target="_blank">
     <img src="https://raw.githubusercontent.com/Nikhil7787/assets/main/opswat-introduction-to-critical-infrastructure-protection-icip.png" alt="OPSWAT ICIP Badge" width="100"/>
 </a>
-
-
-
