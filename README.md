@@ -1,106 +1,209 @@
-# Hello, I'm Nikhil
-<a href="mailto:nikhilvedpathak7787@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> <a href="https://www.linkedin.com/in/nikhil-vedpathak/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a> 
+<div align="center">
 
-<div style="display: flex; justify-content: center;">
-  <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZjc3piZmZrM2hjanYxMXkwemc2OGE5Nmc5N20zMWV4cmJlZXMxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" alt="Gif" style="margin-right: 10px;" />
-  <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTQwNGhuNmc5cmtuMTJlNjRjc3pxd3RiY2d1c3FpYXF1ZzhuYzk1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.gif" alt="Gif" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:00FFFF&height=250&section=header&text=NIKHIL%20VEDPATHAK&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SOC%20Analyst%20|%20Threat%20Hunter%20|%20Blue%20Team&descAlignY=60"/>
 
-🔐 SOC analyst in training with hands-on practice in threat detection, log analysis, and incident response using Splunk, Sentinel, and QRadar. </br> 🛠️ Working on malware analysis labs, phishing workflows, and building detection playbooks. </br> 📚 Learning SIEM, SOAR, network security, and threat intelligence. </br> 🧪 Sharing projects as I level up in blue-team security. </br> </br>
-
-## Objective
-
-My journey in technology has sparked a passion for cybersecurity, and I am now excited to transition into this field.
-
-## Skills
-
-| Skill                                            | Associated Project         |
-|--------------------------------------------------|----------------------------|
-| Network Security Basics                          | <a href="https://github.com/Nikhil7787/cowrie-splunk-lab">Honeypot & Splunk Analysis</a> |
-| Knowledge of Firewalls, VPNs, and IDS/IPS        | _ |
-| Network Protocols (OSI, TCP/IP, DNS, HTTP/HTTPS) |- |
-| Operating Systems (Windows 7, 8 & 10, Kali Linux)| <a href="https://github.com/Nikhil7787/EDR-home-lab">Adversary Emulation Lab</a> |
-| Virtualization Software (VMware, VirtualBox)     | <a href="https://github.com/Nikhil7787/EDR-home-lab">Virtualization Setup</a> |
-| SIEM Tools (Splunk, Microsoft Sentinel)          | <a href="https://github.com/Nikhil7787/cowrie-splunk-lab">Splunk Log Ingestion</a> |
-| Network Vulnerability Assessment & Penetration Testing Tools (NMAP, Wireshark) | <a href="https://github.com/Nikhil7787/VAPT">VAPT</a> |
-| Python                                           | - |
-| SQL                                              | - |
-| Git                                              | - |
-| SOC Process (Detection & Response)               | <a href="https://github.com/Nikhil7787/EDR-home-lab">EDR & Threat Hunting</a> |
-| Interpersonal Skills (Good communication, Self-motivation) | _ |
-
-## 📂 Featured Projects
-
-### 🛡️ <a href="https://github.com/Nikhil7787/EDR-home-lab">EDR & Adversary Emulation Lab</a>
-**Tools:** LimaCharlie EDR, Sliver C2, Kali Linux.
-* Simulated a real-world cyberattack using Sliver C2 to compromise a Windows endpoint.
-* Deployed LimaCharlie EDR to detect and block the attack in real-time.
-* Performed threat hunting to identify C2 beacons and authored D&R rules for automated blocking.
-
-### 🍯 <a href="https://github.com/Nikhil7787/cowrie-splunk-lab">Honeypot & Splunk SIEM Pipeline</a>
-**Tools:** Cowrie, Splunk, Docker.
-* Deployed a Cowrie SSH Honeypot to trap and log brute-force attackers.
-* Built a logging pipeline streaming JSON logs into Splunk SIEM.
-* Analyzed live attacker behavior and ingestion metrics using Splunk SPL.
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=SOC+ANALYST;THREAT+DETECTION;INCIDENT+INVESTIGATION;SIEM+%7C+WAZUH+%7C+SPLUNK+%7C+SENTINEL;BLUE+TEAM+OPERATIONS" />
 
 <br>
 
-<h3 align="left">🛠️ Language and Tools</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" /> 
-  <img width="12" /> 
-  <img src="https://github.com/Nikhil7787/assets/blob/main/metasploit.png?raw=true" height="40" alt="metasploit logo" />
-  <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" /> 
-  <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" /> 
-  <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" /> 
-  <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" /> 
-  <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
-  <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" /> 
-  <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" /> 
-  <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" /> 
-</div>
-
-### OS & Virtualization
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-  <img width="12" /> 
-  <img src="https://github.com/Nikhil7787/assets/blob/main/kali.png?raw=true" height="40" alt="kali linux logo" />
-  <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo" />
-  <img width="12" /> 
-  <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" height="40" alt="virtualbox logo" />
-</div>  
-
-### Network
-<div>
-   <img src="https://github.com/Nikhil7787/assets/blob/main/nmap.png?raw=true" height="40" alt="nmap logo" />
-  <img width="12" /> 
-  <img src="https://github.com/Nikhil7787/assets/blob/main/wireshark.png?raw=true" height="40" alt="wireshark logo" />
-  <img width="12" /> 
-</div>
-
-
-### SIEM
-<div>
-    <img src="https://github.com/Nikhil7787/assets/blob/main/splunk.png"  height="40" alt="splunk logo" />
-    <img width="12" />
-    <img src="https://github.com/Nikhil7787/assets/blob/main/Azure%20Sentinel.svg"  height="40" alt="sentinel logo" />
-</div>
-
-## Certifications & Badges
-
-<a href="https://www.credly.com/badges/f6ef3c5c-d77a-47b8-afa5-57e5eb7e823e/public_url" target="_blank">
-    <img src="https://raw.githubusercontent.com/Nikhil7787/assets/main/introduction-to-cybersecurity.png" alt="Credly Badge" width="100"/>
-</a> <a href="https://www.credly.com/badges/bce3adcb-f544-4990-ab7c-9f19f7e93208/public_url" target="_blank">
-    <img src="https://github.com/Nikhil7787/assets/blob/main/junior-cybersecurity-analyst-career-path.1.png" alt="Credly Badge" width="100"/>
-</a> <a href="https://www.credly.com/badges/08c4abbb-9c03-4192-88fa-99e5bf56d135/public_ur" target="_blank">
-    <img src="https://raw.githubusercontent.com/Nikhil7787/assets/main/opswat-introduction-to-critical-infrastructure-protection-icip.png" alt="OPSWAT ICIP Badge" width="100"/>
+<a href="https://www.linkedin.com/in/nikhil-vedpathak/">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<a href="mailto:nikhilvedpathak7787@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://nikhil-vedpathak-cyber.netlify.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🖥️ SECURITY OPERATIONS CENTER
+
+```text
+┌──────────────────────────────────────────────────────┐
+│ ANALYST      : NIKHIL VEDPATHAK                      │
+│ STATUS       : ONLINE                                │
+│ LOCATION     : PUNE, INDIA                           │
+│ ROLE         : SOC ANALYST                           │
+│ FOCUS        : THREAT DETECTION & INVESTIGATION      │
+├──────────────────────────────────────────────────────┤
+│ SIEM         : WAZUH • SPLUNK • SENTINEL             │
+│ MONITORING   : ACTIVE                                │
+│ THREAT HUNTS : RUNNING                               │
+│ PROJECTS     : ONLINE                                │
+└──────────────────────────────────────────────────────┘
+```
+
+## 🛡️ About Me
+
+```yaml
+Name: Nikhil Vedpathak
+
+Role: SOC Analyst
+
+Focus Areas:
+  - Threat Detection
+  - Log Analysis
+  - Incident Investigation
+  - Threat Hunting
+  - Security Monitoring
+
+Currently Building:
+  - Wazuh + Sysmon Detection Lab
+  - Splunk Security Projects
+  - Phishing Investigations
+  - Malware Analysis Labs
+```
+
+---
+
+# ⚡ SECURITY STACK
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/WAZUH-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SPLUNK-000000?style=for-the-badge&logo=splunk"/>
+<img src="https://img.shields.io/badge/MICROSOFT_SENTINEL-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SYSMON-00FFAA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WIRESHARK-1679A7?style=for-the-badge&logo=wireshark"/>
+<img src="https://img.shields.io/badge/NMAP-214478?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/KALI_LINUX-557C94?style=for-the-badge&logo=kalilinux"/>
+<img src="https://img.shields.io/badge/VIRTUALBOX-183A61?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🚀 INVESTIGATION PORTFOLIO
+
+<table>
+<tr>
+
+<td width="50%" align="center" valign="top">
+
+### 🛡️ WAZUH THREAT DETECTION LAB
+
+```text
+🟢 STATUS : ONLINE
+📡 LOGS   : ACTIVE
+🚨 ALERTS : MONITORED
+```
+
+Windows 11 • Sysmon • Wazuh
+
+<br>
+
+<a href="https://github.com/Nikhil7787/Wazuh-Sysmon-Threat-Detection-Lab">
+<img src="https://img.shields.io/badge/⚡_ACCESS_LAB-00FF41?style=for-the-badge">
+</a>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+### 📧 PHISHING INVESTIGATION
+
+```text
+🟢 STATUS : CLOSED
+🔍 IOCS   : EXTRACTED
+📄 REPORT : COMPLETED
+```
+
+Email Analysis • IOC Extraction • MITRE
+
+<br>
+
+<a href="https://github.com/Nikhil7787/Phishing-Email-Investigation-and-IOC-Extraction">
+<img src="https://img.shields.io/badge/⚡_VIEW_CASE-00FFFF?style=for-the-badge">
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center" valign="top">
+
+### 🍯 COWRIE HONEYPOT LAB
+
+```text
+🟢 STATUS : DEPLOYED
+🎯 ATTACKS: CAPTURED
+📊 SIEM   : SPLUNK
+```
+
+SSH Honeypot • Threat Monitoring
+
+<br>
+
+<a href="https://github.com/Nikhil7787/cowrie-splunk-lab">
+<img src="https://img.shields.io/badge/⚡_OPEN_PROJECT-FF00FF?style=for-the-badge">
+</a>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+### 🎯 EDR ADVERSARY LAB
+
+```text
+🟢 STATUS : DETECTED
+🛡️ RULES  : CREATED
+🔎 HUNTS  : COMPLETED
+```
+
+LimaCharlie • Threat Hunting
+
+<br>
+
+<a href="https://github.com/Nikhil7787/EDR-home-lab">
+<img src="https://img.shields.io/badge/⚡_VIEW_LAB-FFA500?style=for-the-badge">
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🎓 CERTIFICATIONS
+
+🏅 Cisco Junior Cybersecurity Analyst
+
+🏅 Cisco Introduction to Cybersecurity
+
+🏅 OPSWAT Introduction to Critical Infrastructure Protection
+
+🏅 Splunk Search Fundamentals
+
+---
+
+# 📡 CURRENT MISSION
+
+```bash
+> analyst_status
+
+[✓] Monitoring Security Events
+[✓] Investigating Alerts
+[✓] Building Detection Labs
+[✓] Practicing Threat Hunting
+[✓] Expanding Blue Team Skills
+
+STATUS: READY
+```
+
+---
+
+<div align="center">
+
+### 🛡️ LEARN • BUILD • INVESTIGATE • REPEAT
+
+</div>
